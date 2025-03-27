@@ -72,15 +72,15 @@ None of your work will be used unless you are hired.
 - **Task Requirements**: Using [this kaggle dataset](https://www.kaggle.com/datasets/tanishqdublish/text-classification-documentation), train and test a model to classify the text.
 
 ### 1.3. Dataset Clustering
-**Goal**: Compare different AI models for sentiment analysis on product reviews.
-- **Expected Result**: A report analyzing the performance of various AI models and references to your selected dataset.
+**Goal**: Develop a clustering algorithm for a structured dataset.
+- **Expected Result**: A model capable of classifying customers / products by their purchase trends.
 - **Task Requirements**: Using [this kaggle dataset](https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset), develop a clustering model and identify important customer or product trends.
 
 ## 2. Database / SQL
 
 ### 2.1. Database Knowledge
-**Goal**: Design a database schema for managing user profiles, cover letter drafts, and product reviews.
-- **Expected Result**: An efficient and well-organized database schema with example queries for user profile management, storing cover letter drafts, and product reviews.
+**Goal**: Design a database schema for managing user profiles, sellers, and product reviews.
+- **Expected Result**: An efficient and well-organized database schema with example queries for user profile management, storing seller information, product information, and product reviews.
 - **Example Schema**:
   - Example entities: Users, Sellers, Product Review
 - **Example Queries**: 
