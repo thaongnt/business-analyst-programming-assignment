@@ -5,7 +5,7 @@ import os
 import google.generativeai as genai
 
 # Replace with your actual Gemini API key.  Consider using environment variables for security.
-GOOGLE_API_KEY = "Your API key"
+GOOGLE_API_KEY = "AIzaSyCms4vOfWIBBdP7cjRYVALiywHDFxcME2A"
 if not GOOGLE_API_KEY:
     raise ValueError("GOOGLE_API_KEY environment variable not set.")
 
