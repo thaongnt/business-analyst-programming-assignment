@@ -1,0 +1,17 @@
+{
+  "name": "Alex Johnson",
+  "education": "B.Sc. Computer Science",
+  "skills": ["JavaScript", "React", "Node.js", "TypeScript", "HTML5", "CSS3"],
+  "experience": [
+    {
+      "company": "TechCorp",
+      "role": "Software Engineer",
+      "duration": "2 years"
+    },
+    {
+      "company": "WebSolutions Inc",
+      "role": "Junior Developer",
+      "duration": "1 year"
+    }
+  ]
+} 

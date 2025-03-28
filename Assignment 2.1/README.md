@@ -1,0 +1,1 @@
+Firstly, I came up with the entity tables and the attributes under it considering how these tables related to each other. I illustrate the table and their relationship using Lucid Chart. Then, I write down the code to create the table, and create sample queries as requested using MySQL.
